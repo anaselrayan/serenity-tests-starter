@@ -8,5 +8,6 @@
 ### Approved on Linux [centOS] 
 * IntelliJ -mvn
 * chrome-driver
+* 
 !! I needed to change serenity-ensure version
 !! Warning: Dynamic loading of agents
